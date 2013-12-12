@@ -3,7 +3,7 @@ Contributors: lrhguy
 Donate link: http://lrh.net
 Tags: lrh shortcode list,shortcode list,shortcodes
 Requires at least: 3.0.0
-Tested up to: 3.6.1
+Tested up to: 3.8-RC2
 Stable tag: 1.2.0
 License: GPLv2 or later
 
